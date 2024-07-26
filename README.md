@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/f3f3dc07-8d4a-4038-9cc8-5729b2c573d5)<h1 align="center">Hi 👋, I'm Octolukman Nurendra</h1>
+<h1 align="center">Hi 👋, I'm Octolukman Nurendra</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
+
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <a href="https://twitter.com/yaaelahto_" target="blank"><img src="https://img.shields.io/twitter/follow/yaaelahto_?logo=twitter&style=for-the-badge" alt="yaaelahto_" /></a> </p>
 
